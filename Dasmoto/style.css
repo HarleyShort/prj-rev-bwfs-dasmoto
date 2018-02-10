@@ -1,0 +1,29 @@
+
+#mainhead{
+  font-family:helvetica;
+  font-size:100px;
+  font-weight:bold;
+  color:khaki;
+  text-align:center;
+  background-image: url(resources/pattern.jpeg);
+}
+
+#brhead{
+  background-color: mediumspringgreen;
+}
+
+#frhead{
+  background-color: lightcoral;
+}
+
+#pahead{
+  background-color: skyblue;
+}
+.price{
+  font-family:helvetica;
+  font-weight:bold;
+  color:blue;
+}
+h1, h2, h3, p {
+  font-family: Helvetica;
+}
